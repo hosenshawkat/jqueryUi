@@ -1,2 +1,2 @@
-# jqueryUi
+# jqueryui
 jqueryUi
